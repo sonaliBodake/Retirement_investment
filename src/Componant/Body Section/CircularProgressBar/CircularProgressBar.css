@@ -1,0 +1,28 @@
+:root {
+  --color1:#00ffaa;
+  --color2:#c471ed;
+}
+
+.circle_background {
+  fill: none;
+  stroke: #ccffef;
+  stroke-width: 8px;
+}
+
+.circle_progress {
+  fill: none;
+  stroke: var(--color1);
+}
+
+.bar {
+  padding-top: 0px;
+}
+
+.circle_text {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.text {
+  font-weight: bold;
+}/*# sourceMappingURL=CircularProgressBar.css.map */

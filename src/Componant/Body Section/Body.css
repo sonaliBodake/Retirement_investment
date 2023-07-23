@@ -1,0 +1,10 @@
+.mainContent {
+  width: 55%;
+  height: 100%;
+  overflow: hidden;
+}
+.mainContent .bottom {
+  margin-top: 1rem;
+  gap: 10rem;
+  align-items: flex-start;
+}/*# sourceMappingURL=Body.css.map */

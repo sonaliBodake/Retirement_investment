@@ -1,0 +1,65 @@
+:root {
+    --PrimaryColor:hsl(94, 59%, 35%);
+    --HoverColor:#bdf094;
+    --paleGreen:hsl(96, 75%, 89%);
+    --whiteColor:hsl(0, 0%, 100%);
+    --blackColor:hsl(0, 0%, 18%);
+    --textColor:hsl(240, 1%, 48%);
+    --bgColor:hsl(240, 25%, 95%);
+    --greyText:hsl(190, 190, 190);
+    --inputColor:hsl(330, 12%, 97%);
+    /* font and typography */
+    --h1FontSize:2.75rem;
+    --h1FontSize:1.5rem;
+    --h2FontSize:1.25rem;
+    --h3FontSize:1rem;
+    --h4FontSize:0.75rem;
+    --h5Fontsize:.735rem;
+    --normalFontSize:.938rem;
+    --smallFontSize:.813rem;
+  }
+  :root{
+
+      --color1:#00ffaa;
+      --color2:#c471ed;
+    --PrimaryColor:hsl(94, 59%, 35%);
+    --HoverColor:#bdf094;
+    --paleGreen:hsl(96, 75%, 89%);
+    --whiteColor:hsl(0, 0%, 100%);
+    --blackColor:hsl(0, 0%, 18%);
+    --textColor:hsl(240, 1%, 48%);
+    --bgColor:hsl(240, 23%, 95%);
+    --greyText:hsl(190, 190, 190);
+    --inputColor:hsl(330, 12%, 97%);
+
+    /* font and typography */
+    --h1FontSize:2.75rem;
+    --h1FontSize:1.5rem;
+    --h2FontSize:1.25rem;
+    --h3FontSize:1rem;
+    --h4FontSize:0.75rem;
+    --h5Fontsize:.735rem;
+    --normalFontSize:.938rem;
+    --smallFontSize:.813rem;
+    
+
+}
+  .Activity {
+    background: var(--bgColor);
+    box-shadow: 1px 0px 4px var(--greyText);
+    width: 20%;
+    margin-left: 10px;
+    padding-left: 20px;
+    margin-top: 10px;
+    
+    overflow-y: hidden;
+  }
+  span{
+   font-size: var(--h3FontSize);
+   color: black;
+   font-weight: 700;
+  }
+  .data{
+    margin:5px 0 15px;
+  }
+ 

@@ -1,0 +1,86 @@
+:root {
+  --PrimaryColor:hsl(94, 59%, 35%);
+  --HoverColor:#bdf094;
+  --paleGreen:hsl(96, 75%, 89%);
+  --whiteColor:hsl(0, 0%, 100%);
+  --blackColor:hsl(0, 0%, 18%);
+  --textColor:hsl(240, 1%, 48%);
+  --bgColor:hsl(220, 10%, 94%);
+  --lineColor:hsl(240, 1%, 40%);
+  --greyText:hsl(190, 190, 190);
+  --inputColor:hsl(330, 12%, 97%);
+  /* font and typography */
+  --biggestFontSize:2.5rem;
+  --h1FontSize:1.5rem;
+  --h2FontSize:1.25rem;
+  --h3FontSize:1rem;
+  --normalFontSize:.938rem;
+  --smallFontSize:.813rem;
+  --smallestFontSize:.75rem;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.progress-bar {
+  width: 80%;
+  height: 0px;
+  margin: 20px 0 25px;
+}
+
+.text {
+  display: flex;
+  margin: 8px 0 15px;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px var(--inputeColor);
+  margin: 22px 10px 30px 10px;
+  color: var(--whiteColor);
+  background-color: blue;
+  width: 90%;
+}
+
+.bottom {
+  color: blue;
+  align-items: center;
+}
+
+.bottom-icon {
+  display: inline-block;
+}
+
+.card {
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 0%;
+}
+
+.maintext {
+  color: black;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.subtext {
+  font-weight: bolder;
+  font-size: 17px;
+}
+
+.link {
+  color: blue;
+  font-weight: bold;
+}
+
+.text3 {
+  color: #79797c;
+  text-decoration: none;
+  font-size: var(--smallFontSize);
+}/*# sourceMappingURL=ProgressBar.css.map */
