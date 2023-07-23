@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Retirement_investment/static/css/main.45fbd08f.css",
+    "main.js": "/Retirement_investment/static/js/main.3b4358f7.js",
+    "static/media/logo.jpg": "/Retirement_investment/static/media/logo.0be5407f1673f8bd4a96.jpg",
+    "index.html": "/Retirement_investment/index.html",
+    "main.45fbd08f.css.map": "/Retirement_investment/static/css/main.45fbd08f.css.map",
+    "main.3b4358f7.js.map": "/Retirement_investment/static/js/main.3b4358f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45fbd08f.css",
+    "static/js/main.3b4358f7.js"
+  ]
+}
